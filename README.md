@@ -1,0 +1,1 @@
+# simple-Algorithmic-Trading-Strategy
